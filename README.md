@@ -4,7 +4,7 @@ I'm a full stack software engineer with a focus on JavaScript applications looki
 
 
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working on finding my next engineering role!
+- 🔭 I’m currently working on a couple projects to learn new skills!
 - 🌱 I’m currently learning Apollo and graphQL to add to my full stack skills
 - 👯 I’m looking to collaborate on exciting projects
 
